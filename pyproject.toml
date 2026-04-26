@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{ include = "solar_srs", from = "src" }]
 
 [tool.poetry.dependencies]
-python = ">=3.10,<4.0"
+python = ">=3.10"
 pyqt6 = "^6.11.0"
 supabase = "^2.4.0"
 python-dotenv = "^1.0.1"
