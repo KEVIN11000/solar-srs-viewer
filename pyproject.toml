@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "solar-srs-viewer"
+name = "solar-viewer"
 version = "0.1.0"
 description = "Visualizador PyQt6 para registros diarios de manchas solares"
 authors = ["Carlos Benitez"]
